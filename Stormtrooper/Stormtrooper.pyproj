@@ -37,6 +37,9 @@
     <Compile Include="src\civ\advisors.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="src\civ\affinity.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="src\civ\buildings.py">
       <SubType>Code</SubType>
     </Compile>
@@ -47,6 +50,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="src\civ\techs.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="src\civ\traits.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="src\civ\__init__.py">
